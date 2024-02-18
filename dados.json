@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nome": "F A",
+        "dataNascimento": "01/02/1990",
+        "endereco": "Rua Principal",
+        "unidade": "Londrina",
+        "nCaso": "1021",
+        "repNecro": "001/2024"
+    },
+    {
+        "id": 2,
+        "nome": "G P",
+        "dataNascimento": "02/05/1978",
+        "endereco": "Rua da Escola",
+        "unidade": "Curitiba",
+        "nCaso": "1022",
+        "repNecro": "002/2024"
+    },
+    {
+        "id": 3,
+        "nome": "G C",
+        "dataNascimento": "21/09/2005",
+        "endereco": "Rua da Feira",
+        "unidade": "Jacarezinho",
+        "nCaso": "1023",
+        "repNecro": "003/2024"
+    },
+    {
+        "id": 4,
+        "nome": "J D",
+        "dataNascimento": "15/03/1982",
+        "endereco": "Rua da Praia",
+        "unidade": "Cascavel",
+        "nCaso": "1024",
+        "repNecro": "004/2024"
+    },
+    {
+        "id": 5,
+        "nome": "L S",
+        "dataNascimento": "10/11/1995",
+        "endereco": "Avenida Central",
+        "unidade": "Guarapuava",
+        "nCaso": "1025",
+        "repNecro": "005/2024"
+    }
+]
